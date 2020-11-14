@@ -1,2 +1,2 @@
 # passeio_seguro
-Projeto integrador04 2_semestre_2020 engemharia da computação UNIVESP
+Projeto integrador 04 2 semestre 2020 engemharia da computação UNIVESP
